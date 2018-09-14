@@ -102,3 +102,7 @@
 .ace_paren {
     color: #93a1a1;
 }
+
+.ace_ident-guide {
+    opacity: 0.15;
+}
