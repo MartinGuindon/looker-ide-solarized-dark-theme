@@ -19,6 +19,9 @@ If you find this useful, feel free to improve on it and submit pull requests wit
 Discuss and share updates on the [Looker Discourse post](https://discourse.looker.com/t/customizing-the-ide/7935).
 
 ## Change Log
+#### 2019-12-20
+- Added a class for constants
+
 #### 2018-09-14
 - Added a class to reduce the brightness of the indent indicator.
 

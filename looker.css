@@ -106,3 +106,7 @@
 .ace_indent-guide {
     opacity: 0.15;
 }
+
+.ace_constant_ref {
+    color: #dc322f;
+}
